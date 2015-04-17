@@ -13,6 +13,6 @@ alt="video of how to make the GUI of RLC Simulator in MatLab" width="640" height
 ## Demo
 Here is the video showing how you use the simulator in your MatLab
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=PhQ6fVhytqA
-" target="_blank"><img src="http://img.youtube.com/vi/PhQ6fVhytqA/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=CRlGnu9USos
+" target="_blank"><img src="http://img.youtube.com/vi/CRlGnu9USos/0.jpg" 
 alt="video of how to setup RLC Simulator in MatLab" width="640" height="480" border="10" /></a>
